@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_view_divider">4dp</dimen>
+    <dimen name="small_padding">2dp</dimen>
+    <dimen name="layout_size">10sp</dimen>
+    <dimen name="layout_big_top_margin">10dp</dimen>
+    <dimen name="layout_small_top_margin">5dp</dimen>
+    <dimen name="layout_big_margin">20dp</dimen>
+    <dimen name="video_margin">16dp</dimen>
+</resources>

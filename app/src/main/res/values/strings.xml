@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TDM2_TD1_EXO2</string>
+    <string name="intervention_n">Intervention n : </string>
+    <string name="date">"Date : "</string>
+    <string name="nom_plombier">"Nom du plombier : "</string>
+    <string name="type">"Type : "</string>
+    <string name="modifier">Modifier</string>
+    <string name="nom_du_plombier">Nom du Plombier</string>
+    <string name="date_d_intervention">Date d\'intervention</string>
+    <string name="date1">01-01-2020</string>
+    <string name="ajouter">Ajouter</string>
+</resources>
