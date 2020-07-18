@@ -18,7 +18,7 @@ android {
         experimental = true
     }
     defaultConfig {
-        applicationId "com.example.tdm2_td1_exo2"
+        applicationId "com.example.InterventionManagement"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1

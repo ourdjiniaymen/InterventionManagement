@@ -65,6 +65,7 @@
         android:layout_marginEnd="20dp"
         android:background="@drawable/edit_text_background"
         android:paddingTop="10dp"
+        android:text="01-01-2019"
         android:textColor="@color/fontColor" />
 
 
@@ -75,7 +76,7 @@
         android:layout_gravity="end"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="16dp"
-        android:text="@string/add" />
+        android:text="@string/modifier" />
 
 </LinearLayout>
 
